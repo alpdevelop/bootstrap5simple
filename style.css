@@ -1,0 +1,21 @@
+body{
+background-color: #E9ECEF
+}
+
+.border-0{
+    display: block;
+    width: 100px;
+    height: 50px;
+    margin: 0 auto;
+}
+
+.card >.card-text {
+    border: 1px none;
+    background-color:gray;
+    background-size: cover;
+    font-weight: bolder;
+    width:fit-content;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+
